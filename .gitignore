@@ -40,3 +40,4 @@ aienv*
 
 # ignore uv.lock
 uv.lock
+tmp/
