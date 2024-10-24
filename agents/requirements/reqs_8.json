@@ -1,0 +1,28 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "An article should start with a clear definition in the lead section.",
+                    "reference": "The first sentence of the lead should define what the scope of the article is.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "For genes/proteins with a human ortholog, the lead should specify the protein and gene.",
+                    "reference": "\"<recommended UniProt name> is a protein that in humans is encoded by the <approved HUGO gene symbol> gene.\"",
+                    "category": "Content",
+                    "classification": "Contextual Considerations",
+                    "where": "Lead section",
+                    "when": "Applicable for articles on genes/proteins with human orthologs."
+                }
+            ]
+        }
+    ]
+}

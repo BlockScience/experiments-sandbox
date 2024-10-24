@@ -1,0 +1,19 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "Specific information about the protein should not be unnecessarily repeated unless especially notable.",
+                    "reference": "Specific information about the protein (splice variants, post translational modifications, etc.). Again, much of this basic information may already contained in the infobox and should not be unnecessarily repeated unless especially notable.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Content section",
+                    "when": "Applicable when the information is already in the infobox."
+                }
+            ]
+        }
+    ]
+}

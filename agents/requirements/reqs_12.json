@@ -1,0 +1,88 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "An article should start with a clear definition in the lead section.",
+                    "reference": "The first sentence of the lead should define what the scope of the article is.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "The function of the transcribed protein should be described.",
+                    "reference": "Describe the function of the transcribed protein.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Content section",
+                    "when": "Applicable for gene/protein articles."
+                }
+            ]
+        },
+        {
+            "name": "Language Usage",
+            "description": "Guidelines for the appropriate use of language, including gene nomenclature and abbreviations.",
+            "requirements": [
+                {
+                    "id": "R3",
+                    "description": "Human gene names should be written in all capitals.",
+                    "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for human genes only."
+                }
+            ]
+        },
+        {
+            "name": "Formatting",
+            "description": "Requirements related to the formatting of the articles.",
+            "requirements": [
+                {
+                    "id": "R4",
+                    "description": "Infoboxes should be used to summarize key information.",
+                    "reference": "Use infoboxes to summarize key information about the gene or protein.",
+                    "category": "Formatting",
+                    "classification": "Best Practices",
+                    "where": "Infobox section",
+                    "when": "Applicable when summarizing gene/protein information."
+                }
+            ]
+        },
+        {
+            "name": "Citations",
+            "description": "Guidelines for citing sources within the articles.",
+            "requirements": [
+                {
+                    "id": "R5",
+                    "description": "All statements should be supported by reliable sources.",
+                    "reference": "All statements should be supported by reliable sources.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                }
+            ]
+        },
+        {
+            "name": "Structure",
+            "description": "Guidelines for the structural organization of the articles.",
+            "requirements": [
+                {
+                    "id": "R6",
+                    "description": "Articles should follow a logical structure with clear sections.",
+                    "reference": "Articles should follow a logical structure with clear sections.",
+                    "category": "Structure",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                }
+            ]
+        }
+    ]
+}

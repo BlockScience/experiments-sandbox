@@ -1,0 +1,109 @@
+{
+    "groups": [
+        {
+            "name": "Infoboxes",
+            "description": "Requirements related to the use of infoboxes in articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "Include one or more appropriate infoboxes at the top of each article.",
+                    "reference": "One or more of the following infoboxes as appropriate should be included at the top of each article.",
+                    "category": "Infoboxes",
+                    "classification": "Imperative Standards",
+                    "where": "Top of the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "Use Infobox GNF protein for genes/proteins with a human ortholog.",
+                    "reference": "Use Infobox GNF protein for genes/proteins for which an ortholog is present within the human genome.",
+                    "category": "Infoboxes",
+                    "classification": "Contextual Considerations",
+                    "where": "Top of the article",
+                    "when": "Applicable when an ortholog is present within the human genome."
+                },
+                {
+                    "id": "R3",
+                    "description": "Use Infobox protein for protein family articles discussing more than one protein.",
+                    "reference": "Use Infobox protein for protein family articles where more than one protein is discussed in the same article.",
+                    "category": "Infoboxes",
+                    "classification": "Contextual Considerations",
+                    "where": "Top of the article",
+                    "when": "Applicable for protein family articles."
+                },
+                {
+                    "id": "R4",
+                    "description": "Use Infobox nonhuman protein for proteins without a human ortholog.",
+                    "reference": "Use Infobox nonhuman protein for proteins without a human ortholog.",
+                    "category": "Infoboxes",
+                    "classification": "Contextual Considerations",
+                    "where": "Top of the article",
+                    "when": "Applicable for proteins without a human ortholog."
+                },
+                {
+                    "id": "R5",
+                    "description": "Use Infobox protein family for protein families listed in Pfam.",
+                    "reference": "Use Infobox protein family for protein families that are listed in Pfam.",
+                    "category": "Infoboxes",
+                    "classification": "Contextual Considerations",
+                    "where": "Top of the article",
+                    "when": "Applicable for protein families listed in Pfam."
+                },
+                {
+                    "id": "R6",
+                    "description": "Use Infobox rfam for RNA families listed in Rfam.",
+                    "reference": "Use Infobox rfam for RNA families that are listed in Rfam.",
+                    "category": "Infoboxes",
+                    "classification": "Contextual Considerations",
+                    "where": "Top of the article",
+                    "when": "Applicable for RNA families listed in Rfam."
+                },
+                {
+                    "id": "R7",
+                    "description": "Use Infobox enzyme for enzymes based on EC number.",
+                    "reference": "Use Infobox enzyme for enzymes based on EC number.",
+                    "category": "Infoboxes",
+                    "classification": "Contextual Considerations",
+                    "where": "Top of the article",
+                    "when": "Applicable for enzymes based on EC number."
+                },
+                {
+                    "id": "R8",
+                    "description": "Add enzyme infobox if there is only one human paralog assigned to an EC number.",
+                    "reference": "If there is only one human paralog assigned to a given EC number, then in addition to a protein infobox, it may be appropriate to also add the corresponding enzyme infobox.",
+                    "category": "Infoboxes",
+                    "classification": "Contextual Considerations",
+                    "where": "Top of the article",
+                    "when": "Applicable when there is only one human paralog assigned to an EC number."
+                },
+                {
+                    "id": "R9",
+                    "description": "Add protein family infobox if there is only one human paralog assigned to a Pfam family.",
+                    "reference": "If there is only one human paralog that has been assigned to Pfam family, then including a protein family infobox may also be appropriate.",
+                    "category": "Infoboxes",
+                    "classification": "Contextual Considerations",
+                    "where": "Top of the article",
+                    "when": "Applicable when there is only one human paralog assigned to a Pfam family."
+                },
+                {
+                    "id": "R10",
+                    "description": "Place less useful infoboxes in a section at the end if many infoboxes apply.",
+                    "reference": "There exist some cases where a large number of infoboxes may apply to an article. You may put less useful ones in a section at the end, laid side-by-side with a table.",
+                    "category": "Infoboxes",
+                    "classification": "Flexible Guidelines",
+                    "where": "End of the article",
+                    "when": "Applicable when many infoboxes apply to an article."
+                },
+                {
+                    "id": "R11",
+                    "description": "Avoid collapsing or horizontally scrolling infobox tables.",
+                    "reference": "Collapsing or horizontally scrolling the said table is doubtful, as MOS:COLLAPSE may or may not apply depending on how 'extraneous' the boxes are.",
+                    "category": "Infoboxes",
+                    "classification": "Flexible Guidelines",
+                    "where": "End of the article",
+                    "when": "Applicable when considering the presentation of infobox tables."
+                }
+            ]
+        }
+    ]
+}

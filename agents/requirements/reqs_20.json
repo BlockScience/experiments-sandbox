@@ -1,0 +1,184 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "An article should start with a clear definition in the lead section.",
+                    "reference": "The first sentence of the lead should define what the scope of the article is.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "The lead section should summarize the most important points of the article.",
+                    "reference": "The lead should summarize the most important points of the article.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R3",
+                    "description": "Articles should be written in a neutral point of view.",
+                    "reference": "Articles must be written from a neutral point of view.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R4",
+                    "description": "Avoid using jargon and technical terms without explanation.",
+                    "reference": "Avoid using jargon and technical terms without explanation.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When technical terms are necessary."
+                },
+                {
+                    "id": "R5",
+                    "description": "Provide context for the topic in the introduction.",
+                    "reference": "The introduction should provide context for the topic.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Introduction",
+                    "when": "Always applicable."
+                }
+            ]
+        },
+        {
+            "name": "Formatting",
+            "description": "Requirements related to the visual and structural formatting of articles.",
+            "requirements": [
+                {
+                    "id": "R6",
+                    "description": "Use section headings to organize content.",
+                    "reference": "Use section headings to organize content.",
+                    "category": "Formatting",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R7",
+                    "description": "Use bullet points for lists where appropriate.",
+                    "reference": "Use bullet points for lists where appropriate.",
+                    "category": "Formatting",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When listing items."
+                },
+                {
+                    "id": "R8",
+                    "description": "Ensure consistent use of fonts and styles.",
+                    "reference": "Ensure consistent use of fonts and styles.",
+                    "category": "Formatting",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                }
+            ]
+        },
+        {
+            "name": "Language Usage",
+            "description": "Guidelines for the appropriate use of language, including gene nomenclature and abbreviations.",
+            "requirements": [
+                {
+                    "id": "R9",
+                    "description": "Human gene names should be written in all capitals.",
+                    "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for human genes only."
+                },
+                {
+                    "id": "R10",
+                    "description": "Use full names before abbreviations.",
+                    "reference": "Use full names before abbreviations.",
+                    "category": "Language Usage",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When introducing new terms."
+                }
+            ]
+        },
+        {
+            "name": "Citations",
+            "description": "Requirements for citing sources and references within the article.",
+            "requirements": [
+                {
+                    "id": "R11",
+                    "description": "All statements should be verifiable with reliable sources.",
+                    "reference": "All statements should be verifiable with reliable sources.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R12",
+                    "description": "Use inline citations for direct quotes.",
+                    "reference": "Use inline citations for direct quotes.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "When quoting directly."
+                }
+            ]
+        },
+        {
+            "name": "Infoboxes",
+            "description": "Guidelines for the use and formatting of infoboxes in articles.",
+            "requirements": [
+                {
+                    "id": "R13",
+                    "description": "Include an infobox for articles about people.",
+                    "reference": "Include an infobox for articles about people.",
+                    "category": "Infoboxes",
+                    "classification": "Best Practices",
+                    "where": "Lead section",
+                    "when": "For biographical articles."
+                },
+                {
+                    "id": "R14",
+                    "description": "Ensure infoboxes are complete and accurate.",
+                    "reference": "Ensure infoboxes are complete and accurate.",
+                    "category": "Infoboxes",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "When using infoboxes."
+                }
+            ]
+        },
+        {
+            "name": "Structure",
+            "description": "Guidelines for the overall structure and organization of articles.",
+            "requirements": [
+                {
+                    "id": "R15",
+                    "description": "Articles should follow a logical structure.",
+                    "reference": "Articles should follow a logical structure.",
+                    "category": "Structure",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R16",
+                    "description": "Use subheadings to break up long sections.",
+                    "reference": "Use subheadings to break up long sections.",
+                    "category": "Structure",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When sections are lengthy."
+                }
+            ]
+        }
+    ]
+}

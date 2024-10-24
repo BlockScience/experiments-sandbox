@@ -1,0 +1,187 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "An article should start with a clear definition in the lead section.",
+                    "reference": "The first sentence of the lead should define what the scope of the article is.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "The lead section should summarize the most important aspects of the article.",
+                    "reference": "The lead should summarize the most important aspects of the article.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R3",
+                    "description": "Include a section on the gene's function.",
+                    "reference": "A section on the gene's function should be included.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Content section",
+                    "when": "Applicable for gene articles."
+                },
+                {
+                    "id": "R4",
+                    "description": "Include a section on the gene's clinical significance.",
+                    "reference": "A section on the gene's clinical significance should be included.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Content section",
+                    "when": "Applicable for gene articles."
+                },
+                {
+                    "id": "R5",
+                    "description": "Include a section on the gene's interactions.",
+                    "reference": "A section on the gene's interactions should be included.",
+                    "category": "Content",
+                    "classification": "Flexible Guidelines",
+                    "where": "Content section",
+                    "when": "Applicable if interaction data is available."
+                }
+            ]
+        },
+        {
+            "name": "Formatting",
+            "description": "Requirements related to the formatting of the articles.",
+            "requirements": [
+                {
+                    "id": "R6",
+                    "description": "Use the infobox template for gene articles.",
+                    "reference": "The infobox template should be used for gene articles.",
+                    "category": "Formatting",
+                    "classification": "Imperative Standards",
+                    "where": "Infobox",
+                    "when": "Applicable for gene articles."
+                },
+                {
+                    "id": "R7",
+                    "description": "Use the infobox template for protein articles.",
+                    "reference": "The infobox template should be used for protein articles.",
+                    "category": "Formatting",
+                    "classification": "Imperative Standards",
+                    "where": "Infobox",
+                    "when": "Applicable for protein articles."
+                },
+                {
+                    "id": "R8",
+                    "description": "Ensure consistent use of headings and subheadings.",
+                    "reference": "Headings and subheadings should be used consistently.",
+                    "category": "Formatting",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                }
+            ]
+        },
+        {
+            "name": "Language Usage",
+            "description": "Guidelines for the appropriate use of language, including gene nomenclature and abbreviations.",
+            "requirements": [
+                {
+                    "id": "R9",
+                    "description": "Human gene names should be written in all capitals.",
+                    "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for human genes only."
+                },
+                {
+                    "id": "R10",
+                    "description": "Protein names should be written in sentence case.",
+                    "reference": "Protein names are written in sentence case, for example insulin, hemoglobin, etc.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for protein articles."
+                },
+                {
+                    "id": "R11",
+                    "description": "Avoid using jargon and technical terms without explanation.",
+                    "reference": "Avoid jargon and technical terms without explanation.",
+                    "category": "Language Usage",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                }
+            ]
+        },
+        {
+            "name": "Citations",
+            "description": "Requirements related to the citation of sources within the articles.",
+            "requirements": [
+                {
+                    "id": "R12",
+                    "description": "Cite reliable sources for all statements.",
+                    "reference": "All statements should be supported by reliable sources.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R13",
+                    "description": "Use inline citations for specific claims.",
+                    "reference": "Inline citations should be used for specific claims.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R14",
+                    "description": "Include a references section at the end of the article.",
+                    "reference": "A references section should be included at the end of the article.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "End of the article",
+                    "when": "Always applicable."
+                }
+            ]
+        },
+        {
+            "name": "Structure",
+            "description": "Requirements related to the structural organization of the articles.",
+            "requirements": [
+                {
+                    "id": "R15",
+                    "description": "Follow a standard structure for gene articles.",
+                    "reference": "Gene articles should follow a standard structure.",
+                    "category": "Structure",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for gene articles."
+                },
+                {
+                    "id": "R16",
+                    "description": "Follow a standard structure for protein articles.",
+                    "reference": "Protein articles should follow a standard structure.",
+                    "category": "Structure",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for protein articles."
+                },
+                {
+                    "id": "R17",
+                    "description": "Include a 'See also' section if relevant.",
+                    "reference": "A 'See also' section should be included if relevant.",
+                    "category": "Structure",
+                    "classification": "Flexible Guidelines",
+                    "where": "End of the article",
+                    "when": "Applicable if there are related topics."
+                }
+            ]
+        }
+    ]
+}

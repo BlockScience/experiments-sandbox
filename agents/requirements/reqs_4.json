@@ -1,0 +1,91 @@
+{
+    "groups": [
+        {
+            "name": "Language Usage",
+            "description": "Guidelines for the appropriate use of language, including gene nomenclature and abbreviations.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "Gene abbreviations should be according to HUGO Gene Nomenclature Committee.",
+                    "reference": "The abbreviations of genes are according to HUGO Gene Nomenclature Committee.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "Gene names and abbreviations should be written in italic font style.",
+                    "reference": "The abbreviations of genes are written in italic font style (the full names are also written in italic).",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R3",
+                    "description": "Use abbreviations instead of full gene names.",
+                    "reference": "It is recommended that abbreviations instead of the full name are used.",
+                    "category": "Language Usage",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When abbreviations are available."
+                },
+                {
+                    "id": "R4",
+                    "description": "Human gene names should be written in all capitals.",
+                    "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for human genes only."
+                },
+                {
+                    "id": "R5",
+                    "description": "For orthologs of human genes in other species, only the initial letter is capitalized.",
+                    "reference": "For orthologs of human genes in other species, only the initial letter is capitalised, for example mouse Aldoa, bovine Ins, etc.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for non-human species."
+                },
+                {
+                    "id": "R6",
+                    "description": "Use 'the ALDOA gene is regulated...' format.",
+                    "reference": "The following usages of gene symbols are recommended: 'the ALDOA gene is regulated...'.",
+                    "category": "Language Usage",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When discussing gene regulation."
+                },
+                {
+                    "id": "R7",
+                    "description": "Use 'the rat gene for Aldoa is regulated...' format.",
+                    "reference": "The following usages of gene symbols are recommended: 'the rat gene for Aldoa is regulated...'.",
+                    "category": "Language Usage",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When discussing gene regulation in rats."
+                },
+                {
+                    "id": "R8",
+                    "description": "Use 'ALDOA is regulated...' format.",
+                    "reference": "The following usages of gene symbols are recommended: 'ALDOA is regulated...'.",
+                    "category": "Language Usage",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When discussing gene regulation."
+                },
+                {
+                    "id": "R9",
+                    "description": "Avoid using 'the gene ALDOA is regulated' format.",
+                    "reference": "The following is not recommended: 'the gene ALDOA is regulated' since it is redundant.",
+                    "category": "Language Usage",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When discussing gene regulation."
+                }
+            ]
+        }
+    ]
+}

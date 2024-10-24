@@ -1,0 +1,19 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "Optional section that concisely describes species, tissue, and subcellular distribution of the gene.",
+                    "reference": "Optional section that concisely describes what species this gene is expressed (e.g., wide species distribution, bacteria, fungi, vertebrates, mammals, etc.), what tissue the protein is expressed, and which subcellular compartments or organelles the protein is found (excreted, cytoplasm, nucleus, mitochondria, cell membrane).",
+                    "category": "Content",
+                    "classification": "Flexible Guidelines",
+                    "where": "Species, tissue, and subcellular distribution section",
+                    "when": "Applicable when discussing gene expression across species, tissues, and subcellular locations."
+                }
+            ]
+        }
+    ]
+}

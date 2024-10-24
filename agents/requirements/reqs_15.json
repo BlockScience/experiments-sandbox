@@ -1,0 +1,28 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "Do not mention the research group or institution directly in the text of the article.",
+                    "reference": "In general, it is not appropriate to mention the research group or institution that conducted a study directly in the text of the article.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Content section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "List the names of those who made key discoveries concerning the gene or protein.",
+                    "reference": "However it is appropriate to list the names of those who made key discoveries concerning the gene or protein in this section (e.g., the scientist or group that originally cloned the gene, determined its function, linked it to a disease, won a major award for the discovery, etc.).",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "History/Discovery section",
+                    "when": "Applicable when discussing key discoveries."
+                }
+            ]
+        }
+    ]
+}

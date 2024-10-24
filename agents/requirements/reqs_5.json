@@ -1,0 +1,28 @@
+{
+    "groups": [
+        {
+            "name": "Images and Diagrams",
+            "description": "Guidelines for the use and formatting of images and diagrams in articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "Diagrams should adhere to a standard format where possible.",
+                    "reference": "Where possible, diagrams should keep to a standard format.",
+                    "category": "Formatting",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When diagrams are included."
+                },
+                {
+                    "id": "R2",
+                    "description": "Suggest expansions to the standardized formatting if the diagram guide is insufficient.",
+                    "reference": "If the diagram guide does not give sufficient guidance on the style for the images in an article, consider suggesting expansions to the standardised formatting.",
+                    "category": "Supplementary Information",
+                    "classification": "Flexible Guidelines",
+                    "where": "Discussion or talk pages",
+                    "when": "When existing guidelines are insufficient."
+                }
+            ]
+        }
+    ]
+}

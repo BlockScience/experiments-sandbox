@@ -1,0 +1,169 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "An article should start with a clear definition in the lead section.",
+                    "reference": "The first sentence of the lead should define what the scope of the article is.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "The lead section should summarize the most important points of the article.",
+                    "reference": "The lead should summarize the most important points of the article.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R3",
+                    "description": "The article should include a section on gene function.",
+                    "reference": "Articles should include a section on the function of the gene.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Content section",
+                    "when": "Applicable for gene articles."
+                },
+                {
+                    "id": "R4",
+                    "description": "Include a section on the gene's role in disease if applicable.",
+                    "reference": "If the gene is associated with a disease, include a section on this.",
+                    "category": "Content",
+                    "classification": "Contextual Considerations",
+                    "where": "Content section",
+                    "when": "Applicable if the gene is associated with a disease."
+                },
+                {
+                    "id": "R5",
+                    "description": "Provide information on gene expression patterns.",
+                    "reference": "Include information on where and when the gene is expressed.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Content section",
+                    "when": "Applicable for gene articles."
+                }
+            ]
+        },
+        {
+            "name": "Formatting",
+            "description": "Requirements related to the formatting of the articles.",
+            "requirements": [
+                {
+                    "id": "R6",
+                    "description": "Use the infobox template for gene articles.",
+                    "reference": "Gene articles should use the {{Infobox gene}} template.",
+                    "category": "Formatting",
+                    "classification": "Imperative Standards",
+                    "where": "Infobox",
+                    "when": "Always applicable for gene articles."
+                },
+                {
+                    "id": "R7",
+                    "description": "Use the infobox template for protein articles.",
+                    "reference": "Protein articles should use the {{Infobox protein}} template.",
+                    "category": "Formatting",
+                    "classification": "Imperative Standards",
+                    "where": "Infobox",
+                    "when": "Always applicable for protein articles."
+                },
+                {
+                    "id": "R8",
+                    "description": "Ensure consistent use of headings and subheadings.",
+                    "reference": "Use consistent headings and subheadings to organize content.",
+                    "category": "Formatting",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                }
+            ]
+        },
+        {
+            "name": "Language Usage",
+            "description": "Guidelines for the appropriate use of language, including gene nomenclature and abbreviations.",
+            "requirements": [
+                {
+                    "id": "R9",
+                    "description": "Human gene names should be written in all capitals.",
+                    "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for human genes only."
+                },
+                {
+                    "id": "R10",
+                    "description": "Use italics for gene symbols.",
+                    "reference": "Gene symbols should be italicized, for example, BRCA1.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for gene symbols."
+                },
+                {
+                    "id": "R11",
+                    "description": "Protein names should not be italicized.",
+                    "reference": "Protein names are not italicized, for example, BRCA1 protein.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for protein names."
+                }
+            ]
+        },
+        {
+            "name": "Citations",
+            "description": "Requirements related to the citation of sources within the articles.",
+            "requirements": [
+                {
+                    "id": "R12",
+                    "description": "Cite reliable sources for all statements.",
+                    "reference": "All statements should be supported by reliable sources.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R13",
+                    "description": "Use inline citations for specific claims.",
+                    "reference": "Use inline citations to support specific claims.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                }
+            ]
+        },
+        {
+            "name": "Structure",
+            "description": "Requirements related to the structural organization of the articles.",
+            "requirements": [
+                {
+                    "id": "R14",
+                    "description": "Follow a standard structure for gene articles.",
+                    "reference": "Gene articles should follow a standard structure: lead, infobox, function, clinical significance, etc.",
+                    "category": "Structure",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable for gene articles."
+                },
+                {
+                    "id": "R15",
+                    "description": "Include a section on gene nomenclature.",
+                    "reference": "Include a section on the nomenclature of the gene.",
+                    "category": "Structure",
+                    "classification": "Best Practices",
+                    "where": "Content section",
+                    "when": "Applicable for gene articles."
+                }
+            ]
+        }
+    ]
+}

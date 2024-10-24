@@ -1,0 +1,187 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "An article should start with a clear definition in the lead section.",
+                    "reference": "The first sentence of the lead should define what the scope of the article is.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "The article should include a section on the gene's function.",
+                    "reference": "A section detailing the gene's function should be included.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Content section",
+                    "when": "Applicable for all gene articles."
+                },
+                {
+                    "id": "R3",
+                    "description": "Include information on the gene's location on the chromosome.",
+                    "reference": "The gene's chromosomal location should be mentioned.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Content section",
+                    "when": "Applicable when chromosomal location is known."
+                },
+                {
+                    "id": "R4",
+                    "description": "Discuss known mutations and their effects.",
+                    "reference": "Information on known mutations and their effects should be included.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Content section",
+                    "when": "Applicable when mutations are documented."
+                },
+                {
+                    "id": "R5",
+                    "description": "Include a section on the gene's evolutionary history.",
+                    "reference": "A section on the evolutionary history of the gene is recommended.",
+                    "category": "Content",
+                    "classification": "Flexible Guidelines",
+                    "where": "Content section",
+                    "when": "Applicable when evolutionary history is relevant."
+                }
+            ]
+        },
+        {
+            "name": "Formatting",
+            "description": "Requirements related to the formatting of the articles.",
+            "requirements": [
+                {
+                    "id": "R6",
+                    "description": "Use the infobox template for genes and proteins.",
+                    "reference": "The infobox template should be used for genes and proteins.",
+                    "category": "Formatting",
+                    "classification": "Imperative Standards",
+                    "where": "Infobox",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R7",
+                    "description": "Ensure consistent use of headings and subheadings.",
+                    "reference": "Headings and subheadings should be used consistently throughout the article.",
+                    "category": "Formatting",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R8",
+                    "description": "Use bullet points for lists where appropriate.",
+                    "reference": "Bullet points should be used for lists where appropriate.",
+                    "category": "Formatting",
+                    "classification": "Flexible Guidelines",
+                    "where": "Content section",
+                    "when": "Applicable when listing multiple items."
+                }
+            ]
+        },
+        {
+            "name": "Language Usage",
+            "description": "Guidelines for the appropriate use of language, including gene nomenclature and abbreviations.",
+            "requirements": [
+                {
+                    "id": "R9",
+                    "description": "Human gene names should be written in all capitals.",
+                    "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for human genes only."
+                },
+                {
+                    "id": "R10",
+                    "description": "Use italics for gene symbols.",
+                    "reference": "Gene symbols should be italicized.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for gene symbols."
+                },
+                {
+                    "id": "R11",
+                    "description": "Avoid jargon and explain technical terms.",
+                    "reference": "Jargon should be avoided and technical terms should be explained.",
+                    "category": "Language Usage",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                }
+            ]
+        },
+        {
+            "name": "Citations",
+            "description": "Requirements related to the citation of sources in the articles.",
+            "requirements": [
+                {
+                    "id": "R12",
+                    "description": "Cite reliable sources for all claims.",
+                    "reference": "All claims should be supported by citations from reliable sources.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R13",
+                    "description": "Use inline citations for specific statements.",
+                    "reference": "Inline citations should be used for specific statements.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "When specific statements are made."
+                },
+                {
+                    "id": "R14",
+                    "description": "Prefer recent sources for current information.",
+                    "reference": "Recent sources should be preferred for current information.",
+                    "category": "Citations",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When citing current information."
+                }
+            ]
+        },
+        {
+            "name": "Structure",
+            "description": "Requirements related to the structural organization of the articles.",
+            "requirements": [
+                {
+                    "id": "R15",
+                    "description": "Follow the recommended article structure.",
+                    "reference": "The recommended article structure should be followed.",
+                    "category": "Structure",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R16",
+                    "description": "Include a lead section summarizing the article.",
+                    "reference": "A lead section summarizing the article should be included.",
+                    "category": "Structure",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R17",
+                    "description": "Use sections to organize content logically.",
+                    "reference": "Sections should be used to organize content logically.",
+                    "category": "Structure",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                }
+            ]
+        }
+    ]
+}

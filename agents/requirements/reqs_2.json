@@ -1,0 +1,55 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "The scope of a gene/protein article should include the human gene/protein and orthologs in other species.",
+                    "reference": "The scope of a gene/protein article is the human gene/protein (including all splice variants derived from that gene) as well as orthologs (as listed in HomoloGene) that exist in other species.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable for gene/protein articles."
+                },
+                {
+                    "id": "R2",
+                    "description": "Include a gene family article if there are paralogs in humans.",
+                    "reference": "If there are paralogs in humans (and by extension other species), then a gene family article in addition to the gene specific articles would be appropriate.",
+                    "category": "Content",
+                    "classification": "Contextual Considerations",
+                    "where": "Content section",
+                    "when": "Applicable when paralogs exist."
+                },
+                {
+                    "id": "R3",
+                    "description": "Do not hype a study by listing the names, credentials, institutions, or other 'qualifications' of their authors.",
+                    "reference": "In general, do not hype a study by listing the names, credentials, institutions, or other 'qualifications' of their authors.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R4",
+                    "description": "Focus article prose on what a cited study says about the gene or protein.",
+                    "reference": "Article prose should focus on what a cited study says about the structure, function, clinical significance, etc. of the gene or protein.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Content section",
+                    "when": "When discussing studies."
+                },
+                {
+                    "id": "R5",
+                    "description": "Mention particularly notable contributions along with who made the discovery in the discovery/history section.",
+                    "reference": "Particularly notable contributions along with who made the discovery however should be mentioned in the discovery/history section.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Discovery/history section",
+                    "when": "When notable contributions exist."
+                }
+            ]
+        }
+    ]
+}

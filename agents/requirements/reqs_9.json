@@ -1,0 +1,43 @@
+{
+  "groups": [
+    {
+      "name": "Content",
+      "description": "Requirements related to the substantive content of the articles.",
+      "requirements": [
+        {
+          "id": "R1",
+          "description": "Specific information about the gene should be included.",
+          "reference": "Specific information about the gene (on which human chromosome it is located, regulation, etc.).",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Gene section",
+          "when": "Always applicable."
+        },
+        {
+          "id": "R2",
+          "description": "Avoid unnecessary repetition of information already in the infobox.",
+          "reference": "Much of this basic information may already contained in the infobox and should not be unnecessarily repeated in this section unless especially notable.",
+          "category": "Content",
+          "classification": "Best Practices",
+          "where": "Gene section",
+          "when": "When information is already present in the infobox."
+        }
+      ]
+    },
+    {
+      "name": "Infoboxes",
+      "description": "Guidelines for the use and content of infoboxes in gene articles.",
+      "requirements": [
+        {
+          "id": "R3",
+          "description": "Infobox should contain basic information about the gene.",
+          "reference": "Much of this basic information may already contained in the infobox.",
+          "category": "Infoboxes",
+          "classification": "Imperative Standards",
+          "where": "Infobox",
+          "when": "Always applicable."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "An article should start with a clear definition in the lead section.",
+                    "reference": "The first sentence of the lead should define what the scope of the article is.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "The lead section should summarize the most important points of the article.",
+                    "reference": "The lead should summarize the most important points of the article.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R3",
+                    "description": "The article should include a history section if the topic has a significant historical aspect.",
+                    "reference": "Include a history section if the topic has a significant historical aspect.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Content section",
+                    "when": "Applicable when the topic has historical significance."
+                }
+            ]
+        },
+        {
+            "name": "Formatting",
+            "description": "Requirements related to the visual and structural formatting of the articles.",
+            "requirements": [
+                {
+                    "id": "R4",
+                    "description": "Use level 2 headings for main sections.",
+                    "reference": "Use level 2 headings for main sections.",
+                    "category": "Formatting",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R5",
+                    "description": "Avoid using bold text for emphasis.",
+                    "reference": "Avoid using bold text for emphasis.",
+                    "category": "Formatting",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R6",
+                    "description": "Use italics for the titles of works such as books and films.",
+                    "reference": "Use italics for the titles of works such as books and films.",
+                    "category": "Formatting",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable when mentioning titles of works."
+                }
+            ]
+        },
+        {
+            "name": "Language Usage",
+            "description": "Guidelines for the appropriate use of language, including gene nomenclature and abbreviations.",
+            "requirements": [
+                {
+                    "id": "R7",
+                    "description": "Human gene names should be written in all capitals.",
+                    "reference": "Human gene names are written in capitals, for example ALDOA, INS, etc.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Applicable for human genes only."
+                },
+                {
+                    "id": "R8",
+                    "description": "Avoid jargon and technical terms unless necessary.",
+                    "reference": "Avoid jargon and technical terms unless necessary.",
+                    "category": "Language Usage",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R9",
+                    "description": "Use consistent terminology throughout the article.",
+                    "reference": "Use consistent terminology throughout the article.",
+                    "category": "Language Usage",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                }
+            ]
+        },
+        {
+            "name": "Citations",
+            "description": "Requirements for citing sources and references within the articles.",
+            "requirements": [
+                {
+                    "id": "R10",
+                    "description": "All statements that are challenged or likely to be challenged should be supported by a citation.",
+                    "reference": "All statements that are challenged or likely to be challenged should be supported by a citation.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "When statements are challenged or likely to be challenged."
+                },
+                {
+                    "id": "R11",
+                    "description": "Use inline citations for direct quotes.",
+                    "reference": "Use inline citations for direct quotes.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "When using direct quotes."
+                },
+                {
+                    "id": "R12",
+                    "description": "Prefer reliable sources such as peer-reviewed journals.",
+                    "reference": "Prefer reliable sources such as peer-reviewed journals.",
+                    "category": "Citations",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When citing sources."
+                }
+            ]
+        },
+        {
+            "name": "Infoboxes",
+            "description": "Guidelines for the use and formatting of infoboxes in articles.",
+            "requirements": [
+                {
+                    "id": "R13",
+                    "description": "Include an infobox if it provides a useful summary of key facts.",
+                    "reference": "Include an infobox if it provides a useful summary of key facts.",
+                    "category": "Infoboxes",
+                    "classification": "Best Practices",
+                    "where": "At the beginning of the article",
+                    "when": "When key facts can be summarized."
+                },
+                {
+                    "id": "R14",
+                    "description": "Ensure infoboxes are consistent with the article content.",
+                    "reference": "Ensure infoboxes are consistent with the article content.",
+                    "category": "Infoboxes",
+                    "classification": "Imperative Standards",
+                    "where": "Infobox",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R15",
+                    "description": "Use standard templates for infoboxes.",
+                    "reference": "Use standard templates for infoboxes.",
+                    "category": "Infoboxes",
+                    "classification": "Imperative Standards",
+                    "where": "Infobox",
+                    "when": "Always applicable."
+                }
+            ]
+        },
+        {
+            "name": "Structure",
+            "description": "Guidelines for the overall structure and organization of the articles.",
+            "requirements": [
+                {
+                    "id": "R16",
+                    "description": "Articles should have a clear and logical structure.",
+                    "reference": "Articles should have a clear and logical structure.",
+                    "category": "Structure",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R17",
+                    "description": "Use subheadings to organize content within sections.",
+                    "reference": "Use subheadings to organize content within sections.",
+                    "category": "Structure",
+                    "classification": "Best Practices",
+                    "where": "Content sections",
+                    "when": "When sections contain multiple topics."
+                },
+                {
+                    "id": "R18",
+                    "description": "Avoid overly long sections by splitting them into smaller parts.",
+                    "reference": "Avoid overly long sections by splitting them into smaller parts.",
+                    "category": "Structure",
+                    "classification": "Best Practices",
+                    "where": "Content sections",
+                    "when": "When sections become too lengthy."
+                }
+            ]
+        }
+    ]
+}

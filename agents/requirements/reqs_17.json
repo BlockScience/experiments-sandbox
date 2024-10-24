@@ -1,0 +1,145 @@
+{
+    "groups": [
+        {
+            "name": "Citations",
+            "description": "Requirements related to citing sources in articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "MCB articles should be relatively dense with inline citations.",
+                    "reference": "MCB articles should be relatively dense with inline citations, using either <ref> tags (footnotes) or parenthetical citations.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "It is not acceptable to write substantial amounts of prose and then add your textbook to the 'References' section as a non-specific or general reference.",
+                    "reference": "It is not acceptable to write substantial amounts of prose and then add your textbook to the 'References' section as a non-specific or general reference.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "References section",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R3",
+                    "description": "The format of citations should be consistent within any one article.",
+                    "reference": "There is no standard for formatting citations on Wikipedia, but the format should be consistent within any one article.",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "Throughout the article",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R4",
+                    "description": "Some editors prefer to expand the abbreviated journal name; others prefer concise standard abbreviations.",
+                    "reference": "Some editors prefer to expand the abbreviated journal name; others prefer concise standard abbreviations.",
+                    "category": "Citations",
+                    "classification": "Flexible Guidelines",
+                    "where": "References section",
+                    "when": "When citing journal articles."
+                },
+                {
+                    "id": "R5",
+                    "description": "Abstracts of most MCB related journals are freely available at PubMed.",
+                    "reference": "Abstracts of most MCB related journals are freely available at PubMed, which includes a means of searching the MEDLINE database.",
+                    "category": "Citations",
+                    "classification": "Supplementary Information",
+                    "where": "References section",
+                    "when": "When citing MCB related journals."
+                },
+                {
+                    "id": "R6",
+                    "description": "The easiest way to populate the journal and book citation templates is to use Diberri's template-filling web site or the Universal reference formatter.",
+                    "reference": "The easiest way to populate the journal and book citation templates is to use Diberri's template-filling web site or the Universal reference formatter.",
+                    "category": "Citations",
+                    "classification": "Best Practices",
+                    "where": "References section",
+                    "when": "When adding citations."
+                },
+                {
+                    "id": "R7",
+                    "description": "Take care to check that all the fields are correctly populated, since the tool does not always work 100%.",
+                    "reference": "Take care to check that all the fields are correctly populated, since the tool does not always work 100%.",
+                    "category": "Citations",
+                    "classification": "Best Practices",
+                    "where": "References section",
+                    "when": "When using citation tools."
+                },
+                {
+                    "id": "R8",
+                    "description": "Multiple references to the same source citation can be achieved by ensuring the inline reference is named uniquely.",
+                    "reference": "Multiple references to the same source citation can be achieved by ensuring the inline reference is named uniquely.",
+                    "category": "Citations",
+                    "classification": "Best Practices",
+                    "where": "Throughout the article",
+                    "when": "When citing the same source multiple times."
+                },
+                {
+                    "id": "R9",
+                    "description": "In addition to the standard citation text, it is useful to supply hyperlinks.",
+                    "reference": "In addition to the standard citation text, it is useful to supply hyperlinks.",
+                    "category": "Citations",
+                    "classification": "Best Practices",
+                    "where": "References section",
+                    "when": "When the source is available online."
+                },
+                {
+                    "id": "R10",
+                    "description": "If the journal abstract is available on PubMed, add a link by typing PMID xxxxxxxxx.",
+                    "reference": "If the journal abstract is available on PubMed, add a link by typing PMID xxxxxxxxx.",
+                    "category": "Citations",
+                    "classification": "Best Practices",
+                    "where": "References section",
+                    "when": "When citing journal abstracts available on PubMed."
+                },
+                {
+                    "id": "R11",
+                    "description": "If the article has a digital object identifier (DOI), use the doi template.",
+                    "reference": "If the article has a digital object identifier (DOI), use the doi template.",
+                    "category": "Citations",
+                    "classification": "Best Practices",
+                    "where": "References section",
+                    "when": "When citing articles with a DOI."
+                },
+                {
+                    "id": "R12",
+                    "description": "If and only if the article's full text is freely available online, supply a URL to this text by hyperlinking the article title in the citation.",
+                    "reference": "If and only if the article's full text is freely available online, supply a URL to this text by hyperlinking the article title in the citation.",
+                    "category": "Citations",
+                    "classification": "Contextual Considerations",
+                    "where": "References section",
+                    "when": "When the full text is freely available online."
+                },
+                {
+                    "id": "R13",
+                    "description": "If the full text is freely available on the journal's website and on PubMed Central, prefer to link the former.",
+                    "reference": "If the full text is freely available on the journal's website and on PubMed Central, prefer to link the former as PubMed central's copy is often a pre-publication draft.",
+                    "category": "Citations",
+                    "classification": "Best Practices",
+                    "where": "References section",
+                    "when": "When the full text is available on both the journal's website and PubMed Central."
+                },
+                {
+                    "id": "R14",
+                    "description": "When the source text is available in both HTML and PDF, the former should be preferred.",
+                    "reference": "When the source text is available in both HTML and PDF, the former should be preferred as it is compatible with a larger range of browsers.",
+                    "category": "Citations",
+                    "classification": "Best Practices",
+                    "where": "References section",
+                    "when": "When the source is available in both HTML and PDF."
+                },
+                {
+                    "id": "R15",
+                    "description": "Do not add a 'Retrieved on' date for convenience links to online editions of paper journals.",
+                    "reference": "Do not add a 'Retrieved on' date for convenience links to online editions of paper journals (however 'Retrieved on' dates are needed on other websources).",
+                    "category": "Citations",
+                    "classification": "Imperative Standards",
+                    "where": "References section",
+                    "when": "When citing online editions of paper journals."
+                }
+            ]
+        }
+    ]
+}

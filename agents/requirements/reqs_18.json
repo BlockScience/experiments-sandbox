@@ -1,0 +1,61 @@
+{
+    "groups": [
+        {
+            "name": "Structure",
+            "description": "Guidelines related to the structural elements of the article.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "Articles about related proteins may be cross-linked by including one or more navigation boxes.",
+                    "reference": "Articles about related proteins may be cross linked by including one or more [[WP:NAVBOX|navigation boxes]] as appropriate.",
+                    "category": "Structure",
+                    "classification": "Flexible Guidelines",
+                    "where": "Content section",
+                    "when": "Applicable when articles are about related proteins."
+                }
+            ]
+        },
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R2",
+                    "description": "Include navigation boxes for cytoskeletal proteins.",
+                    "reference": "Examples include: {{tl|Cytoskeletal Proteins}}",
+                    "category": "Content",
+                    "classification": "Supplementary Information",
+                    "where": "Content section",
+                    "when": "Applicable for articles related to cytoskeletal proteins."
+                },
+                {
+                    "id": "R3",
+                    "description": "Include navigation boxes for ion channels.",
+                    "reference": "Examples include: {{tl|Ion channels}}",
+                    "category": "Content",
+                    "classification": "Supplementary Information",
+                    "where": "Content section",
+                    "when": "Applicable for articles related to ion channels."
+                },
+                {
+                    "id": "R4",
+                    "description": "Include navigation boxes for transcription factors.",
+                    "reference": "Examples include: {{tl|Transcription factors}}",
+                    "category": "Content",
+                    "classification": "Supplementary Information",
+                    "where": "Content section",
+                    "when": "Applicable for articles related to transcription factors."
+                },
+                {
+                    "id": "R5",
+                    "description": "Include navigation boxes for transmembrane receptors.",
+                    "reference": "Examples include: {{tl|Transmembrane receptors}}",
+                    "category": "Content",
+                    "classification": "Supplementary Information",
+                    "where": "Content section",
+                    "when": "Applicable for articles related to transmembrane receptors."
+                }
+            ]
+        }
+    ]
+}

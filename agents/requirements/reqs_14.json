@@ -1,0 +1,19 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "List diseases or conditions that are a result of a mutation in the gene or a deficiency or excess of the expressed protein.",
+                    "reference": "List diseases or conditions that are a result of a mutation in the gene or a deficiency or excess of the expressed protein.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Clinical significance section",
+                    "when": "Always applicable for gene/protein articles."
+                }
+            ]
+        }
+    ]
+}

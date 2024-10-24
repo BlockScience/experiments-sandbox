@@ -1,0 +1,28 @@
+{
+    "groups": [
+        {
+            "name": "Categories",
+            "description": "Requirements related to the categorization of Wikipedia articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "Every Wikipedia article should be added to at least one category.",
+                    "reference": "Every Wikipedia article should be added to at least one [[WP:CATEGORY|category]].",
+                    "category": "Structure",
+                    "classification": "Imperative Standards",
+                    "where": "Article metadata",
+                    "when": "Always applicable."
+                },
+                {
+                    "id": "R2",
+                    "description": "Gene and protein articles should be categorized under appropriate categories or subcategories.",
+                    "reference": "Categories or subcategories that may be appropriate for gene and protein articles include: [[:Category:Proteins]], [[:Category:Enzymes by function]], [[:Category:Genes by human chromosome]].",
+                    "category": "Structure",
+                    "classification": "Best Practices",
+                    "where": "Article metadata",
+                    "when": "Applicable for gene and protein articles."
+                }
+            ]
+        }
+    ]
+}

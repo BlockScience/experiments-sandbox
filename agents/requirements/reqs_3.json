@@ -1,0 +1,55 @@
+{
+    "groups": [
+        {
+            "name": "Article Naming",
+            "description": "Requirements related to the naming conventions for articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "Use the recommended UniProt protein name as the article name if it is relatively short.",
+                    "reference": "If relatively short, the recommended UniProt protein name should be used as the article name.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Article title",
+                    "when": "Applicable when the protein name is short."
+                },
+                {
+                    "id": "R2",
+                    "description": "Use a widely used protein acronym or the official HUGO gene symbol if the protein name is verbose.",
+                    "reference": "If the protein name is verbose, either a widely used protein acronym or the official HUGO gene symbol, followed by '(gene)' if necessary to disambiguate.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Article title",
+                    "when": "Applicable when the protein name is verbose."
+                },
+                {
+                    "id": "R3",
+                    "description": "Enumerate different members of a protein family with a dash followed by an Arabic number.",
+                    "reference": "The different members should be enumerated with a dash '-' followed by an Arabic number, e.g. 'desmoglein-1', 'desmoglein-2', etc.",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Article title",
+                    "when": "Applicable for proteins grouped into a family."
+                },
+                {
+                    "id": "R4",
+                    "description": "Include the taxon in the title for viral proteins.",
+                    "reference": "If the article is about a viral protein, it is recommended to include the taxon in the title.",
+                    "category": "Content",
+                    "classification": "Best Practices",
+                    "where": "Article title",
+                    "when": "Applicable for viral protein articles."
+                },
+                {
+                    "id": "R5",
+                    "description": "A parenthesized term added to disambiguate common symbols does not constitute unnecessary disambiguation.",
+                    "reference": "A parenthesized term added to disambiguate common symbols does not constitute unnecessary disambiguation even when it is the only article with such a name.",
+                    "category": "Content",
+                    "classification": "Contextual Considerations",
+                    "where": "Article title",
+                    "when": "Applicable when disambiguation is needed."
+                }
+            ]
+        }
+    ]
+}

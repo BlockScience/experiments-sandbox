@@ -1,0 +1,19 @@
+{
+    "groups": [
+        {
+            "name": "Content",
+            "description": "Requirements related to the substantive content of the articles.",
+            "requirements": [
+                {
+                    "id": "R1",
+                    "description": "The Wikipedia article should be linked to a Wikidata item of the entity first mentioned in the first sentence of the lead section.",
+                    "reference": "The Wikipedia article should be linked to a Wikidata item of the entity first mentioned in the first sentence of the lead section, which should be written as defined in [[WP:MCBMOSSECTIONS]].",
+                    "category": "Content",
+                    "classification": "Imperative Standards",
+                    "where": "Lead section",
+                    "when": "Always applicable for gene/protein articles."
+                }
+            ]
+        }
+    ]
+}
